@@ -6,7 +6,7 @@ A network is a set of computers connected together. There are local networks wit
 
 ## What is an IP
 
-IP is a unique number assigned to a computer. This computer allows them to access each other's machine. There are 2 IP addresses assigned to each computer, one for the local network and one for the public domain. IP Address usually follows the same format of `0.0.0.0` and the numbers range from 0 to 255.
+IP is a unique number assigned to a computer. This IP allows them to access each other's machine. There are 2 IP addresses assigned to each computer, one for the local network and one for the public domain. IP Address usually follows the same format of `0.0.0.0` and the numbers range from 0 to 255.
 
 ## What is IPv4
 
