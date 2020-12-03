@@ -71,5 +71,3 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 5. Session layer
 6. Presentation layer
 7. Application layer
-
-[source](https://www.forcepoint.com/cyber-edu/osi-model#:~:text=The%20OSI%20Model%20(Open%20Systems,between%20different%20products%20and%20software)
