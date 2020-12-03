@@ -1,9 +1,5 @@
 from ipaddress import ip_interface
 
-# TEST MATERIAL
-# 192.168.200.5/30 and 192.168.200.9/30 == FALSE
-# 192.168.200.5/30 and 192.168.200.6/30 == TRUE
-
 print("-=Network Checker=-")
 
 print("Please insert the first IP Address")
@@ -24,3 +20,8 @@ if ans:
     print("These IPs are on the same network.")
 else:
     print("These IPs are NOT on the same network.")
+
+
+# TEST MATERIAL
+# 192.168.200.5/30 and 192.168.200.9/30 == FALSE
+# 192.168.200.5/30 and 192.168.200.6/30 == TRUE
